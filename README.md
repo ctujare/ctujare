@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ctujare/ctujare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+I am Anand Tujare. I am a Laravel Developer with love for PHP ... I have been developing websites since 2010..
 
-Here are some ideas to get you started:
+### Currently Learning
+I am currently learning React JS and how it would integrate with Laravel 8 / 9.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap
+- Tailwind
+- PHP
+- Laravel 7,8,9
