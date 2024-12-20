@@ -26,11 +26,11 @@ A stock trading app built using Flutter with real-time updates via SignalR, feat
 
 ## 🌟 Experience
 - Software Engineer @ Amukha Technologies Pvt. Ltd.
-Developed two Flutter applications for customer verification and stock news aggregation.
+  - Developed two Flutter applications for customer verification and stock news aggregation.
 - Software Developer @ Heckyl Technologies Pvt. Ltd.
-Created a feature-rich stock trading app using Flutter.
+  - Created a feature-rich stock trading app using Flutter.
 - Software Developer @ Brickfolio Pvt. Ltd.
-Enhanced the sales funnel by developing an advanced CRM system.
+  - Enhanced the sales funnel by developing an advanced CRM system.
 
 ![ctujare's Stats](https://github-readme-stats.vercel.app/api?username=ctujare&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![ctujare's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctujare&theme=dracula&show_icons=true&hide_border=true&layout=compact)
