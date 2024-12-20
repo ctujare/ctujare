@@ -39,3 +39,5 @@ A stock trading app built using Flutter with real-time updates via SignalR, feat
 - GitHub: [ctujare](https://www.github.com/ctujare)
 - Threads: [anandtujare](https://www.threads.net/@anandtujare)
 - LinkedIn: [anand-tujare](https://www.linkedin.com/in/anand-tujare/)
+
+[![Anand Tujare profile views](https://u8views.com/api/v1/github/profiles/19292827/views/day-week-month-total-count.svg)](https://u8views.com/github/ctujare)
