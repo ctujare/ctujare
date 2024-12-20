@@ -1,4 +1,4 @@
-#👋 Hi, I'm Anand Tujare
+# 👋 Hi, I'm Anand Tujare
 ## About Me
 I'm a passionate software developer with over a decade of experience in web and mobile application development. I specialize in creating innovative and scalable solutions using modern technologies like HTML5, CSS3, JavaScript, Laravel, Flutter, and more. My work spans diverse industries, including e-commerce, CRM systems, stock trading, and news aggregation.
 
