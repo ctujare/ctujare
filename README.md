@@ -10,6 +10,7 @@ Backend: PHP, Laravel (7 - 11), WordPress (v5 - v6)
 Mobile Development: Dart/Flutter
 Database: MySQL
 Other: API Development, Geotagging, SignalR for real-time updates
+
 ### 🚀 Projects
 #### Vendeli
 A restaurant aggregator platform featuring:
@@ -30,6 +31,7 @@ Developed two Flutter applications for customer verification and stock news aggr
 Created a feature-rich stock trading app using Flutter.
 - Software Developer @ Brickfolio Pvt. Ltd.
 Enhanced the sales funnel by developing an advanced CRM system.
+
 ##📫 Let's Connect!
 - GitHub: [ctujare](https://www.github.com/ctujare)
 - Threads: [anandtujare](https://www.threads.net/@anandtujare)
