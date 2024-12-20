@@ -4,13 +4,13 @@ I'm a passionate software developer with over a decade of experience in web and 
 
 I thrive on solving complex problems and delivering seamless digital experiences. Whether building an application from scratch or enhancing existing platforms, I bring a blend of technical expertise and business acumen to every project.
 
-###💻 Skills
+### 💻 Skills
 Frontend: HTML5, CSS3, JavaScript, jQuery, React JS, Bootstrap 4 & 5
 Backend: PHP, Laravel (7 - 11), WordPress (v5 - v6)
 Mobile Development: Dart/Flutter
 Database: MySQL
 Other: API Development, Geotagging, SignalR for real-time updates
-###🚀 Projects
+### 🚀 Projects
 #### Vendeli
 A restaurant aggregator platform featuring:
 
