@@ -7,7 +7,7 @@ I thrive on solving complex problems and delivering seamless digital experiences
 ### 💻 Skills
 - Frontend: HTML5, CSS3, JavaScript, jQuery, React JS, Bootstrap 4 & 5
 - Backend: PHP, Laravel (7 - 11), WordPress (v5 - v6)
-- Mobile Development: Dart/Flutter
+- Mobile Development: Dart/Flutter 3+
 - Database: MySQL
 - Other: API Development, Geotagging, SignalR for real-time updates
 
@@ -15,9 +15,10 @@ I thrive on solving complex problems and delivering seamless digital experiences
 #### Vendeli
 A restaurant aggregator platform featuring:
 
-User App: This is for customers to browse menus and place orders.
-Restaurant App: For restaurant management.
-Delivery Partner App: This is for delivery tracking and order management.
+- User App: This is for customers to browse menus and place orders.
+- Restaurant App: For restaurant management.
+- Delivery Partner App: This is for delivery tracking and order management.
+
 #### Brickfolio CRM
 A comprehensive CRM system for managing leads, pre-sales, and sales teams, complete with live location tracking and attendance features.
 
