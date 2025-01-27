@@ -33,6 +33,7 @@ A stock trading app built using Flutter with real-time updates via SignalR, feat
 - Software Developer @ Brickfolio Pvt. Ltd.
   - Enhanced the sales funnel by developing an advanced CRM system.
 
+![ctujare's Trophies](https://github-profile-trophy.vercel.app/?username=ctujare&theme=darkhub)
 ![ctujare's Stats](https://github-readme-stats.vercel.app/api?username=ctujare&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![ctujare's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctujare&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
